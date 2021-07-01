@@ -14,9 +14,10 @@ dt{
 }
 
 body{
+    margin: 0 200px;
     font-family: 'Lato', sans-serif;
     font-size: 18px;
-    background-image: url(file:///home/marcelo/estilizando-menu-restaurante-sprint-2-marcelochaves92/src/img/map-bg.jpg);
+    background-image: url("./img/map-bg.jpg");
 }
 
 nav {
